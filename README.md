@@ -27,7 +27,7 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveek&layout=compact&theme=synthwave" />
 
-**Some other tools I use:"
+**Some other tools I use:**
 <br>
 <a href="https://codesandbox.io/u/daveek">
   <img align="left" alt="Dave Rojas | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />

@@ -1,10 +1,10 @@
 ## Hi There, Hallo - Ciao - Hola! 
-### 👋 I'm Dave
+### 👋 I'm Dave Rojas, Welcome to my GitHub profile! 😄
 <!--
 **daveek/daveek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
-**Here are som languages I use:**  
+**Here are some languages I use:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -27,12 +27,10 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveek&layout=compact&theme=synthwave" />
 
+**Some other tools I use:"
 <br>
 <a href="https://codesandbox.io/u/daveek">
   <img align="left" alt="Dave Rojas | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/davegeek">
-  <img align="left" alt="Dave Rojas | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://stackblitz.com/@daveek">
   <img align="left" alt="Dave's Stackblitz" width="21px" src="https://a.fsdn.com/allura/s/stackblitz/icon?1612417345?&w=120" />

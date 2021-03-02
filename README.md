@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Dave
-### Hallo - Ciao - Hola!
+## Hi There, Hallo - Ciao - Hola! 
+### 👋 I'm Dave
 <!--
 **daveek/daveek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
-** Languages and Tools: **  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -12,7 +12,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-** Something about me: **
+**Something about me:**
 
 - 🔭 I’m currently working on Entry/Exit System (Schengen Europe Border Control System)
 - 🌱 I’m currently learning Angular, RxJs, UX Researching
@@ -25,7 +25,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=daveek&show_icons=true&title_color=fefefe&icon_color=242A75&text_color=FEFEFE&bg_color=151515" alt="daveek" /> </p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveek)](https://github.com/daveek/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveek&layout=compact&theme=material-synthwave" />
 
 <br>
 <a href="https://codesandbox.io/u/daveek">
@@ -35,5 +35,5 @@
   <img align="left" alt="Dave Rojas | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://stackblitz.com/@daveek">
-  <img align="left" alt="Dave's Stackblitz" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Dave's Stackblitz" width="21px" src="https://a.fsdn.com/allura/s/stackblitz/icon?1612417345?&w=120" />
 </a>

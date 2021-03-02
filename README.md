@@ -23,9 +23,9 @@
 - 😄 Pronouns: Geeky Dajuju, El Pulgo
 - ⚡ Fun fact: Venezuelan - Spaniard Flavour Spreader! :D
 
-<img src="https://github-readme-stats.vercel.app/api?username=daveek&show_icons=true&title_color=fefefe&icon_color=242A75&text_color=FEFEFE&bg_color=151515" alt="daveek" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=daveek&show_icons=true&title_color=fefefe&icon_color=ff0000&text_color=FEFEFE&bg_color=151515" alt="daveek" /> </p>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveek&layout=compact&theme=material-synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveek&layout=compact&theme=synthwave" />
 
 <br>
 <a href="https://codesandbox.io/u/daveek">

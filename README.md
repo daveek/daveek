@@ -16,7 +16,7 @@
 **Something about me:**
 
 - 🔭 I’m currently working on Entry/Exit System (Schengen Europe Border Control System)
-- 🌱 I’m currently learning Angular, RxJs, UX Researching
+- 🌱 I’m currently learning Angular, RxJs, UX Researching, Svelte, Flutter and Tailwind 
 - 👯 I’m looking to collaborate on Server Side Rendering, SSE, Usability/Accessibility
 - 🤔 I’m looking for help with Accessibility - A11y Projects
 - 💬 Ask me about Ts, Js, Html, Css, Bikes, Trekking and More! :)

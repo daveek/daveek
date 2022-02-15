@@ -15,7 +15,8 @@
 
 **Something about me:**
 
-- 🔭 I’m currently working on Entry/Exit System (Schengen Europe Border Control System)
+- 💎 Currently Working on the next category of Process Mining Software, The Execution Management System. 
+- 🛂 Recently worked on Entry/Exit Systems (Schengen Europe Border Control System)
 - 🌱 I’m currently learning Angular, RxJs, UX Researching, Svelte, Flutter and Tailwind 
 - 👯 I’m looking to collaborate on Server Side Rendering, SSE, Usability/Accessibility
 - 🤔 I’m looking for help with Accessibility - A11y Projects

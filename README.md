@@ -15,7 +15,7 @@
 
 **Something about me:**
 
-- 💎 Currently Working on the next category of Process Mining Software, The Execution Management System. 
+- 🦄 Currently Working on the next category of Process Mining Software, The Execution Management System. 
 - 🛂 Recently worked on Entry/Exit Systems (Schengen Europe Border Control System)
 - 🌱 I’m currently learning Angular, RxJs, UX Researching, Svelte, Flutter and Tailwind 
 - 👯 I’m looking to collaborate on Server Side Rendering, SSE, Usability/Accessibility

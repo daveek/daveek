@@ -17,10 +17,10 @@
 
 - 🦄 Currently Working on the next category of Process Mining Software, The Execution Management System. 
 - 🛂 Recently worked on Entry/Exit Systems (Schengen Europe Border Control System)
-- 🌱 I’m currently learning Angular, RxJs, UX Researching, Svelte, Flutter and Tailwind 
+- 🌱 I’m currently learning Angular, RxJs, UX Researching/Designing, Svelte, Flutter and Tailwind 
 - 👯 I’m looking to collaborate on Server Side Rendering, SSE, Usability/Accessibility
 - 🤔 I’m looking for help with Accessibility - A11y Projects
-- 💬 Ask me about Ts, Js, Html, Css, Bikes, Trekking and More! :)
+- 💬 Ask me about Ts, Js, Html, Css, Bikes, Trekking and Padel
 - 📫 How to reach me: Ig: @daveek , Tw: @davegeek
 - 😄 Pronouns: Geeky Dajuju, El Pulgo
 - ⚡ Fun fact: Venezuelan - Spaniard Flavour Spreader! :D

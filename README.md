@@ -15,7 +15,7 @@
 
 **Something about me:**
 
-- 💎 Currently Working on the next category of Process Mining SaaS, The Execution Management System. 
+- 💎 Learning new paths of Design and Critical Thinking as Ux Engineer. 
 - 🛂 Recently worked on Entry/Exit Systems (Schengen Europe Border Control System)
 - 🌱 I’m currently learning Angular, RxJs, UX Researching/Designing, Svelte, Flutter and Tailwind 
 - 🤝🏼 I’m looking to collaborate on Server Side Rendering, SSE, Usability/Accessibility

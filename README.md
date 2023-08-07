@@ -16,12 +16,12 @@
 **Something about me:**
 
 - 💎 Learning new paths of Design and Critical Thinking as Ux Engineer. 
-- 🛂 Recently worked on Entry/Exit Systems (Schengen Europe Border Control System)
+- 🛂 I've worked on Process Mining, creating Rx for processes with Data Models, as well worked on Entry/Exit System (Schengen Europe Border Control System)
 - 🌱 I’m currently learning Angular, RxJs, UX Researching/Designing, Svelte, Flutter and Tailwind 
 - 🤝🏼 I’m looking to collaborate on Server Side Rendering, SSE, Usability/Accessibility
 - 🤔 I’m looking for help with Accessibility - A11y Projects
 - 💬 Ask me about Ts, Js, Html, Css, Bikes, Trekking and Padel
-- 📫 How to reach me: Ig: @daveek , Tw: @davegeek
+- 📫 How to reach me: Ig: @daveek , -Tw- (X): @davegeek
 - 😄 Pronouns: Geeky Dajuju, El Pulgo
 - ⚡ Fun fact: Venezuelan - Spaniard Flavour Spreader! :D
 

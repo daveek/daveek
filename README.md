@@ -22,7 +22,7 @@
 - 🤔 I’m looking for help with Accessibility - A11y Projects
 - 💬 Ask me about Ts, Js, Html, Css, Bikes, Trekking and Padel
 - 📫 How to reach me: Ig: @daveek , -Tw- (X): @davegeek
-- 😄 Pronouns: Geeky Dajuju, El Pulgo
+- 😄 Pronouns: Geeky Dajuju, El pulgo
 - ⚡ Fun fact: Venezuelan - Spaniard Flavour Spreader! :D
 
 <img src="https://github-readme-stats.vercel.app/api?username=daveek&show_icons=true&title_color=fefefe&icon_color=ff0000&text_color=FEFEFE&bg_color=151515" alt="daveek" /> </p>

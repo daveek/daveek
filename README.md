@@ -12,7 +12,7 @@
 - 🤝🏼 I’m looking to collaborate on Server Side Rendering, SSE, Usability/Accessibility
 - 🤔 I’m looking for help with Accessibility - A11y Projects
 - 💬 Ask me about Ts, Js, Html, Css, Bikes, Trekking and Padel
-- 📫 How to reach me: Ig: @daveek , -Tw- (X): @davegeek
+- 📫 How to reach me: <kbd>⏭</kbd>  [Linkedin](https://www.linkedin.com/in/rojasdave/)
 - 😄 Pronouns: Geeky Dajuju, El pulgo
 - ⚡ Fun fact: Venezuelan - Spaniard Flavour Spreader! :D
 
@@ -44,7 +44,4 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=daveek&color=blue)
 
-<br>
-<br>
-<kbd>⏭ </kbd> [Linkedin](https://www.linkedin.com/in/rojasdave/)
 

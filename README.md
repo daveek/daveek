@@ -9,7 +9,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
@@ -29,6 +28,8 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveek&layout=compact&theme=synthwave" />
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daveek&theme=blueberry&border_radius=4.6" alt="GitHub Streak" /></a>
+
 **Some other tools I use:**
 <br>
 <br>
@@ -38,5 +39,11 @@
 <a href="https://stackblitz.com/@daveek">
   <img align="left" alt="Dave's Stackblitz" width="21px" src="https://a.fsdn.com/allura/s/stackblitz/icon?1612417345?&w=120" />
 </a>
+<br>
+<br>
+![i+=](https://komarev.com/ghpvc/?username=daveek&color=f87c56)
 
-i+= ![](https://komarev.com/ghpvc/?username=daveek&color=brightred)
+<br>
+<br>
+<kbd>⏭ [Linkedin](https://www.linkedin.com/in/rojasdave/)</kbd>
+

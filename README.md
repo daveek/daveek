@@ -1,16 +1,8 @@
 ## Hi There, Hallo - Ciao - Hola! 
-### 👋 I'm Dave Rojas, Welcome to my GitHub profile! 😄
+### 👋 My name is Dave Rojas,
 <!--
 **daveek/daveek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
-
-**Here are some languages I use:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
 
 **Something about me:**
 
@@ -24,7 +16,16 @@
 - 😄 Pronouns: Geeky Dajuju, El pulgo
 - ⚡ Fun fact: Venezuelan - Spaniard Flavour Spreader! :D
 
-<img src="https://github-readme-stats.vercel.app/api?username=daveek&show_icons=true&title_color=fefefe&icon_color=ff0000&text_color=FEFEFE&bg_color=151515" alt="daveek" /> </p>
+**Here are some languages I use:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=daveek&show_icons=true&title_color=fefefe&icon_color=ff0000&text_color=FEFEFE&bg_color=151515" alt="daveek" /> </p> -->
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveek&layout=compact&theme=synthwave" />
 
@@ -41,9 +42,9 @@
 </a>
 <br>
 <br>
-![i+=](https://komarev.com/ghpvc/?username=daveek&color=f87c56)
+![](https://komarev.com/ghpvc/?username=daveek&color=blue)
 
 <br>
 <br>
-<kbd>⏭ [Linkedin](https://www.linkedin.com/in/rojasdave/)</kbd>
+<kbd>⏭ </kbd> [Linkedin](https://www.linkedin.com/in/rojasdave/)
 

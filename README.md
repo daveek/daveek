@@ -38,3 +38,5 @@
 <a href="https://stackblitz.com/@daveek">
   <img align="left" alt="Dave's Stackblitz" width="21px" src="https://a.fsdn.com/allura/s/stackblitz/icon?1612417345?&w=120" />
 </a>
+
+i+= ![](https://komarev.com/ghpvc/?username=daveek&color=brightred)

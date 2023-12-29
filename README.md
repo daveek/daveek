@@ -1,13 +1,13 @@
 ## Hi There, Hallo - Ciao - Hola! 
-### 👋 My name is Dave Rojas,
+### 👋 My name is Dave,
 <!--
 **daveek/daveek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
 **Something about me:**
 
-- 💎 Learning new paths of Design and Critical Thinking as Ux Engineer. 
-- 🛂 I've worked on Process Mining, creating Rx for processes with Data Models, as well worked on Entry/Exit System (Schengen Europe Border Control System)
+- 💎 I'm learning new paths to democratized simulations for all, a bit of Design and Critical Thinking as well.
+- 🛂 I've worked on Process Mining, Biometric Apps for Entry/Exit System (Schengen Europe Border Control System)
 - 🌱 I’m currently learning Angular, RxJs, UX Researching/Designing, Svelte, Flutter and Tailwind 
 - 🤝🏼 I’m looking to collaborate on Server Side Rendering, SSE, Usability/Accessibility
 - 🤔 I’m looking for help with Accessibility - A11y Projects

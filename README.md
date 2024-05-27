@@ -4,17 +4,27 @@
 **daveek/daveek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
-**Something about me:**
+### Current focus ⚡:
+- Democratizing Simulations: Exploring new ways to make simulations accessible to everyone, breaking down barriers and fostering wider use.
+- Unifying UX for Physical Simulations: I'm applying design thinking to create a seamless user experience across diverse physical simulation apps.
 
-- 💎 I'm learning new paths to democratized simulations for all, a bit of Design and Critical Thinking as well.
-- 🛂 I've worked on Process Mining, Biometric Apps for Entry/Exit System (Schengen Europe Border Control System)
-- 🌱 I’m currently learning Angular, RxJs, UX Researching/Designing, Svelte, Flutter and Tailwind 
-- 🤝🏼 I’m looking to collaborate on Server Side Rendering, SSE, Usability/Accessibility
-- 🤔 I’m looking for help with Accessibility - A11y Projects
-- 💬 Ask me about Ts, Js, Html, Css, Bikes, Trekking and Padel
-- 📫 How to reach me: <kbd>⏭</kbd>  [Linkedin](https://www.linkedin.com/in/rojasdave/)
-- 😄 Pronouns: Geeky Dajuju, El pulgo
-- ⚡ Fun fact: Venezuelan - Spaniard Flavour Spreader! :D
+### Previous Experiencies 🛂:
+- Design/Develop UI WebApps for Process Mining Systems
+- Develop Biometric UI Apps for Border Control Systems (Frontex)
+- Design/Develop Use Case Educational Materials for MBA programs.
+
+### Learning & Sharing 🌱:
+- Currently learning Angular v18, RxJs, UX Research/Design, Python, Dash and React.
+- Advance UI Architectures and Github Actions (CI/CD)
+
+### Collaboration Interests 🤝🏼:
+-  I’m looking to collaborate on Server Side Rendering, SSE, Usability/Accessibility. I’m looking to help with Accessibility - A11y Projects
+-  Ask me about Ts, Js, Html, Css, Bikes, Trekking and Padel
+
+### About me 📫:
+- Ping  me: <kbd>⏭</kbd>  [Linkedin](https://www.linkedin.com/in/rojasdave/)
+- Pronouns: Geek Dajuju, he/him
+- Fun fact: Venezuelan/Spaniard Latin Rythms
 
 **Here are some languages I use:**  
 

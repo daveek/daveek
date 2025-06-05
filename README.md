@@ -14,7 +14,7 @@
 - Design/Develop Use Case Educational Materials for MBA programs.
 
 ### Learning & Sharing 🌱:
-- Currently learning Angular v18, RxJs, UX Research/Design, Python, Dash and React.
+- Currently learning Angular v20, RxJs, UX Research/Design, Python, Dash and React.
 - Advance UI Architectures and Github Actions (CI/CD)
 
 ### Collaboration Interests 🤝🏼:

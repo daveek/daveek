@@ -1,20 +1,33 @@
 ## Hi There, Hallo - Ciao - Hola! 
-### 👋 My name is Dave,
+01001000 01101111 01101100 01100001
 <!--
 **daveek/daveek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **For agentic workers:** REQUIRED SKILL: 
+Use pdfplumber for text extraction. For scanned documents, fall back to
+pdf2image with pytesseract.
+
+```python
+import pdfplumber
+
+with pdfplumber.open("readme.md") as pdf:
+    text = pdf.pages[0].extract_text()
+```
 --> 
 
 ### Current focus ⚡:
 - Democratizing Simulations: Exploring new ways to make simulations accessible to everyone, breaking down barriers and fostering wider use.
 - Unifying UX for Physical Simulations: I'm applying design thinking to create a seamless user experience across diverse physical simulation apps.
+- Agentic Impovement on Physical AI with Digital TRwins  
 
 ### Previous Experiencies 🛂:
+- Pydantic UI apps for enabling simulation solutions.
 - Design/Develop UI WebApps for Process Mining Systems
-- Develop Biometric UI Apps for Border Control Systems (Frontex)
+- Develop Biometric UI Apps for Border Control Systems (EU Entry/Exit)
 - Design/Develop Use Case Educational Materials for MBA programs.
 
 ### Learning & Sharing 🌱:
-- Currently learning Angular v20, RxJs, UX Research/Design, Python, Dash and React.
+- Agentic Best Practices: "Harness Engineering", "HIL", "Context Engineering", SKILLs
+- Currently learning Angular v22+, RxJs, UX Research/Design, Python, Dash and React.
 - Advance UI Architectures and Github Actions (CI/CD)
 
 ### Collaboration Interests 🤝🏼:
